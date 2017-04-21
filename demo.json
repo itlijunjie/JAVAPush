@@ -1,0 +1,18 @@
+{
+  "aps": {
+    "alert": {
+      "title": "title",
+      "subtitle": "subtitle",
+      "body": "body",
+      "action-loc-key" : "PLAY",
+      "loc-key" : "GAME_PLAY_REQUEST_FORMAT",
+      "loc-args" : [ "Jenna", "Frank"]
+    },
+    "sound": "default",
+    "badge": 2,
+    "category": "seeCategory",
+    "mutable-content": 1,
+    "content-available": 1
+  },
+  "custom": "http://www.ssdfasfasfas.com/aaaa/a.png"
+}
